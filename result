@@ -1,0 +1,115 @@
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+CUDA SETUP: CUDA runtime path found: /home/tkz5084/.conda/envs/llm/lib/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 8.6
+CUDA SETUP: Detected CUDA version 121
+CUDA SETUP: Loading binary /home/tkz5084/.conda/envs/llm/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cuda121.so...
+averaged similarity : 0.6, averaged recalls: 1.0, averaged accuracy: 3.0, averaged MRR: 1.0
+averaged similarity : 0.7974999999999999, averaged recalls: 1.0, averaged accuracy: 2.75, averaged MRR: 1.0
+averaged similarity : 0.8649999999999998, averaged recalls: 1.0, averaged accuracy: 2.1666666666666665, averaged MRR: 1.0
+averaged similarity : 0.7987499999999998, averaged recalls: 1.0, averaged accuracy: 2.375, averaged MRR: 1.0
+averaged similarity : 0.6889999999999998, averaged recalls: 0.9, averaged accuracy: 2.2, averaged MRR: 1.0
+no similarity matrix
+averaged similarity : 0.5824999999999999, averaged recalls: 0.75, averaged accuracy: 1.8333333333333335, averaged MRR: 0.8333333333333334
+averaged similarity : 0.5707142857142856, averaged recalls: 0.7857142857142857, averaged accuracy: 1.8571428571428572, averaged MRR: 0.8571428571428572
+averaged similarity : 0.6243749999999999, averaged recalls: 0.8125, averaged accuracy: 1.75, averaged MRR: 0.875
+averaged similarity : 0.6565873015873016, averaged recalls: 0.8333333333333334, averaged accuracy: 1.6507936507936507, averaged MRR: 0.8888888888888888
+averaged similarity : 0.6659285714285714, averaged recalls: 0.85, averaged accuracy: 1.6357142857142857, averaged MRR: 0.8999999999999999
+averaged similarity : 0.640995670995671, averaged recalls: 0.8181818181818181, averaged accuracy: 1.5097402597402596, averaged MRR: 0.9090909090909091
+averaged similarity : 0.6396626984126984, averaged recalls: 0.7916666666666665, averaged accuracy: 1.425595238095238, averaged MRR: 0.9166666666666666
+averaged similarity : 0.5904578754578755, averaged recalls: 0.7307692307692307, averaged accuracy: 1.315934065934066, averaged MRR: 0.8461538461538461
+averaged similarity : 0.6197108843537416, averaged recalls: 0.75, averaged accuracy: 1.2933673469387754, averaged MRR: 0.8571428571428571
+averaged similarity : 0.6256190476190476, averaged recalls: 0.75, averaged accuracy: 1.2738095238095237, averaged MRR: 0.8666666666666666
+averaged similarity : 0.6038789682539683, averaged recalls: 0.703125, averaged accuracy: 1.1941964285714284, averaged MRR: 0.8124999999999999
+averaged similarity : 0.6137348272642391, averaged recalls: 0.7205882352941176, averaged accuracy: 1.1743697478991595, averaged MRR: 0.8235294117647057
+averaged similarity : 0.6051014109347443, averaged recalls: 0.7222222222222223, averaged accuracy: 1.1230158730158728, averaged MRR: 0.8333333333333331
+averaged similarity : 0.5995697577276526, averaged recalls: 0.736842105263158, averaged accuracy: 1.1165413533834583, averaged MRR: 0.8421052631578946
+averaged similarity : 0.58834126984127, averaged recalls: 0.7250000000000001, averaged accuracy: 1.0857142857142854, averaged MRR: 0.8499999999999999
+no similarity matrix
+averaged similarity : 0.6079440665154953, averaged recalls: 0.7380952380952382, averaged accuracy: 1.0816326530612241, averaged MRR: 0.857142857142857
+averaged similarity : 0.625764790764791, averaged recalls: 0.7500000000000001, averaged accuracy: 1.123376623376623, averaged MRR: 0.8636363636363634
+averaged similarity : 0.6202967563837131, averaged recalls: 0.7608695652173914, averaged accuracy: 1.2049689440993785, averaged MRR: 0.8695652173913041
+averaged similarity : 0.6028912291412293, averaged recalls: 0.7387820512820513, averaged accuracy: 1.1579670329670326, averaged MRR: 0.8749999999999998
+averaged similarity : 0.5987755799755801, averaged recalls: 0.7492307692307693, averaged accuracy: 1.1316483516483513, averaged MRR: 0.8499999999999998
+averaged similarity : 0.5948483140790833, averaged recalls: 0.7460552268244577, averaged accuracy: 1.1009439278670043, averaged MRR: 0.8557692307692305
+averaged similarity : 0.5913354135576359, averaged recalls: 0.7554605887939222, averaged accuracy: 1.0786867453534117, averaged MRR: 0.8611111111111108
+averaged similarity : 0.5791448630734346, averaged recalls: 0.7463369963369964, averaged accuracy: 1.0580193615907898, averaged MRR: 0.8660714285714283
+averaged similarity : 0.56574249505284, averaged recalls: 0.7255273462170014, averaged accuracy: 1.0264620437034226, averaged MRR: 0.8448275862068962
+averaged similarity : 0.5802177452177454, averaged recalls: 0.7346764346764347, averaged accuracy: 1.0089133089133087, averaged MRR: 0.8499999999999996
+averaged similarity : 0.571303911142621, averaged recalls: 0.7163535389341842, averaged accuracy: 0.9817440623892234, averaged MRR: 0.854838709677419
+averaged similarity : 0.5643881639194142, averaged recalls: 0.7127174908424909, averaged accuracy: 0.9573145604395602, averaged MRR: 0.8593749999999997
+averaged similarity : 0.5700127650127652, averaged recalls: 0.7214230214230215, averaged accuracy: 0.9434565434565433, averaged MRR: 0.8636363636363633
+averaged similarity : 0.5596815072182721, averaged recalls: 0.7038811678517561, averaged accuracy: 0.923060762766645, averaged MRR: 0.8676470588235291
+averaged similarity : 0.5481123757195188, averaged recalls: 0.6837702773417059, averaged accuracy: 0.8966875981161694, averaged MRR: 0.8428571428571425
+averaged similarity : 0.546775920838421, averaged recalls: 0.6786655474155474, averaged accuracy: 0.8856684981684979, averaged MRR: 0.8472222222222219
+averaged similarity : 0.5426963914463916, averaged recalls: 0.6738367488367488, averaged accuracy: 0.8684882684882682, averaged MRR: 0.851351351351351
+averaged similarity : 0.5389412232504339, averaged recalls: 0.6692620975515713, averaged accuracy: 0.8851069982648927, averaged MRR: 0.8552631578947365
+averaged similarity : 0.5414683713722177, averaged recalls: 0.6713323001784541, averaged accuracy: 0.8816427162581006, averaged MRR: 0.8589743589743587
+averaged similarity : 0.5528066620879122, averaged recalls: 0.6795489926739928, averaged accuracy: 0.8721016483516482, averaged MRR: 0.8624999999999997
+no similarity matrix
+averaged similarity : 0.5514577191101582, averaged recalls: 0.6751697489502368, averaged accuracy: 0.8630259983918519, averaged MRR: 0.8658536585365851
+averaged similarity : 0.5482484083376941, averaged recalls: 0.670999040641898, averaged accuracy: 0.854382522239665, averaged MRR: 0.8690476190476188
+averaged similarity : 0.5529403058182129, averaged recalls: 0.6786502257432492, averaged accuracy: 0.8577689752108356, averaged MRR: 0.8720930232558137
+averaged similarity : 0.5403734806859808, averaged recalls: 0.6632263569763571, averaged accuracy: 0.8382742257742257, averaged MRR: 0.8522727272727271
+averaged similarity : 0.5399392551892552, averaged recalls: 0.6595991045991048, averaged accuracy: 0.8363125763125763, averaged MRR: 0.8555555555555554
+averaged similarity : 0.5390710105112279, averaged recalls: 0.6561295588469502, averaged accuracy: 0.8616101290014333, averaged MRR: 0.8478260869565215
+averaged similarity : 0.5360234003585067, averaged recalls: 0.6474885044033981, averaged accuracy: 0.853916296469488, averaged MRR: 0.8510638297872338
+averaged similarity : 0.5300645795177045, averaged recalls: 0.6444158272283274, averaged accuracy: 0.8465430402930403, averaged MRR: 0.8541666666666664
+averaged similarity : 0.5250778388278388, averaged recalls: 0.6341799357105481, averaged accuracy: 0.832182103610675, averaged MRR: 0.8435374149659861
+averaged similarity : 0.5201318376068376, averaged recalls: 0.6214963369963371, averaged accuracy: 0.8155384615384615, averaged MRR: 0.8266666666666663
+averaged similarity : 0.5115671610524551, averaged recalls: 0.6093101343101344, averaged accuracy: 0.7995475113122171, averaged MRR: 0.810457516339869
+no similarity matrix
+averaged similarity : 0.508139587442472, averaged recalls: 0.6104131445477601, averaged accuracy: 0.7905818540433924, averaged MRR: 0.8141025641025638
+averaged similarity : 0.5132271004676665, averaged recalls: 0.6114745317575507, averaged accuracy: 0.7819545234639573, averaged MRR: 0.8176100628930815
+averaged similarity : 0.5181261870845204, averaged recalls: 0.6124966083299417, averaged accuracy: 0.7736467236467236, averaged MRR: 0.8209876543209874
+averaged similarity : 0.5250693473193473, averaged recalls: 0.6195421245421245, averaged accuracy: 0.7868531468531468, averaged MRR: 0.824242424242424
+no similarity matrix
+no similarity matrix
+averaged similarity : 0.5194629502442002, averaged recalls: 0.6120503008895866, averaged accuracy: 0.7763736263736263, averaged MRR: 0.8273809523809521
+averaged similarity : 0.5181468361073623, averaged recalls: 0.6130084827453248, averaged accuracy: 0.7744489428699953, averaged MRR: 0.8304093567251459
+averaged similarity : 0.5199891320365457, averaged recalls: 0.6196807502841986, averaged accuracy: 0.778337754199823, averaged MRR: 0.833333333333333
+averaged similarity : 0.5196503331884686, averaged recalls: 0.6261268392624325, averaged accuracy: 0.7820947414167752, averaged MRR: 0.8361581920903952
+averaged similarity : 0.5207117165242164, averaged recalls: 0.6268025030525031, averaged accuracy: 0.78017094017094, averaged MRR: 0.8388888888888887
+no similarity matrix
+averaged similarity : 0.52128292700014, averaged recalls: 0.6219915330571069, averaged accuracy: 0.772845733501471, averaged MRR: 0.8415300546448086
+averaged similarity : 0.5161009443065894, averaged recalls: 0.6151852180077987, averaged accuracy: 0.7636062861869312, averaged MRR: 0.8440860215053761
+averaged similarity : 0.5079088658255324, averaged recalls: 0.6054203732775161, averaged accuracy: 0.7514855514855513, averaged MRR: 0.8306878306878305
+averaged similarity : 0.4999727897970085, averaged recalls: 0.5959606799450549, averaged accuracy: 0.7397435897435896, averaged MRR: 0.8177083333333331
+averaged similarity : 0.5016313280736358, averaged recalls: 0.5970484643561565, averaged accuracy: 0.73861932938856, averaged MRR: 0.8205128205128204
+averaged similarity : 0.5058153651903652, averaged recalls: 0.5981032856032854, averaged accuracy: 0.7425796425796424, averaged MRR: 0.8232323232323231
+averaged similarity : 0.5034897627248374, averaged recalls: 0.5981315947733856, averaged accuracy: 0.7374665135859164, averaged MRR: 0.8184079601990049
+averaged similarity : 0.5034384426847662, averaged recalls: 0.6040414242620122, averaged accuracy: 0.7560331825037705, averaged MRR: 0.8210784313725489
+averaged similarity : 0.5057350560067951, averaged recalls: 0.6056391675956891, averaged accuracy: 0.761639326856718, averaged MRR: 0.823671497584541
+averaged similarity : 0.5032721742543171, averaged recalls: 0.5969871794871793, averaged accuracy: 0.7507587650444791, averaged MRR: 0.8119047619047618
+averaged similarity : 0.5032260872929888, averaged recalls: 0.6026634163958106, averaged accuracy: 0.7542692049734301, averaged MRR: 0.8145539906103285
+averaged similarity : 0.5065840583028084, averaged recalls: 0.6081819800569799, averaged accuracy: 0.750737688237688, averaged MRR: 0.8171296296296295
+no similarity matrix
+averaged similarity : 0.5133431807918111, averaged recalls: 0.6135493501931857, averaged accuracy: 0.7678508705905965, averaged MRR: 0.8196347031963469
+no similarity matrix
+averaged similarity : 0.5131628675378677, averaged recalls: 0.6187716562716561, averaged accuracy: 0.7709880209880209, averaged MRR: 0.8220720720720719
+averaged similarity : 0.5196540293040294, averaged recalls: 0.6238547008547006, averaged accuracy: 0.7807081807081806, averaged MRR: 0.8244444444444443
+averaged similarity : 0.5193954236552922, averaged recalls: 0.6288039811066125, averaged accuracy: 0.7770146520146519, averaged MRR: 0.8267543859649121
+averaged similarity : 0.5234725393653967, averaged recalls: 0.6336247086247084, averaged accuracy: 0.7842395699538556, averaged MRR: 0.8290043290043289
+averaged similarity : 0.5295818657837891, averaged recalls: 0.6383218277449044, averaged accuracy: 0.7805954729031651, averaged MRR: 0.831196581196581
+averaged similarity : 0.529207411786526, averaged recalls: 0.6429000324569942, averaged accuracy: 0.7770436314740112, averaged MRR: 0.8333333333333331
+averaged similarity : 0.5338423191391944, averaged recalls: 0.6473637820512818, averaged accuracy: 0.792330586080586, averaged MRR: 0.8354166666666665
+averaged similarity : 0.5303380929769822, averaged recalls: 0.6455444761000314, averaged accuracy: 0.7887215664993442, averaged MRR: 0.8374485596707817
+averaged similarity : 0.5299681162333605, averaged recalls: 0.649867104440275, averaged accuracy: 0.7912981327615474, averaged MRR: 0.8394308943089429
+averaged similarity : 0.5302094642305489, averaged recalls: 0.6492662959530427, averaged accuracy: 0.7865836974270709, averaged MRR: 0.8413654618473894
+averaged similarity : 0.5303458594976456, averaged recalls: 0.647489316239316, averaged accuracy: 0.7831719867434153, averaged MRR: 0.843253968253968
+averaged similarity : 0.535871202327085, averaged recalls: 0.6516365007541476, averaged accuracy: 0.7857229045464339, averaged MRR: 0.845098039215686
+averaged similarity : 0.5373920798194057, averaged recalls: 0.6518112701252234, averaged accuracy: 0.7843385296873668, averaged MRR: 0.8468992248062013
+averaged similarity : 0.5427094122352746, averaged recalls: 0.655813439434129, averaged accuracy: 0.8442886615300407, averaged MRR: 0.8486590038314173
+averaged similarity : 0.5393831689144192, averaged recalls: 0.654042832167832, averaged accuracy: 0.8460581085581084, averaged MRR: 0.8503787878787876
+averaged similarity : 0.5395024591513358, averaged recalls: 0.6579299913569575, averaged accuracy: 0.8534057702597027, averaged MRR: 0.8520599250936327
+averaged similarity : 0.5427672466422468, averaged recalls: 0.6617307692307691, averaged accuracy: 0.8513308913308912, averaged MRR: 0.8537037037037034
+averaged similarity : 0.53680277140442, averaged recalls: 0.6544590025359255, averaged accuracy: 0.8419756068107715, averaged MRR: 0.8443223443223441
+averaged similarity : 0.5339323855492336, averaged recalls: 0.6503097446032227, averaged accuracy: 0.8367762672110497, averaged MRR: 0.846014492753623
+averaged similarity : 0.5308793491454784, averaged recalls: 0.6433171667042633, averaged accuracy: 0.8277786729399631, averaged MRR: 0.8369175627240141
+averaged similarity : 0.5260612304362307, averaged recalls: 0.6372332454779263, averaged accuracy: 0.8197323952643101, averaged MRR: 0.831560283687943
